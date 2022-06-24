@@ -3,7 +3,6 @@ import { Fragment } from "react";
 import Head from "next/head";
 
 import MeetupDetail from "../../components/meetups/MeetupDetail";
-import { useRouter } from "next/router";
 
 function MeetupDetails(props) {
   return (
